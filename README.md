@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+<img data-importer="image" align="right" height="110" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">## 👨‍💻 About Me<br><br>🚀 Building secure, well-architected web applications with Java, Spring Boot, React.js, and MySQL.<br><br>🔐 Experienced in developing full-stack applications with authentication, role-based access control, microservices, and distributed system architecture through hands-on software projects.<br><br>📚 Actively studying Data Structures & Algorithms in Java while expanding my knowledge of backend engineering and system design.<br><br>💡 Passionate about clean architecture, secure software design, REST APIs, and solving real-world engineering problems.<br><br>🎯 Aspiring to build a career in Java backend engineering and distributed systems by developing secure, reliable, and impactful software solutions.<br><br>🤝 Open to collaborating on Java, Spring Boot, React.js, and open-source projects.<br><br>⚡ Believing that continuous learning, thoughtful engineering, and practical problem-solving are the foundations of great software.<br><br>## 🤝 Let's Connect<br><br>📧 **Email**: ackarthicknarayanan@gmail.com<br><br>💼 **LinkedIn**: https://www.linkedin.com/in/karthicknarayanan-ac/</p>
+<p data-importer="text" align="left">## 👨‍💻 About Me<br><br>🚀 Building secure, well-architected web applications with Java, Spring Boot, React.js, and MySQL.<br><br>🔐 Experienced in developing full-stack applications with authentication, role-based access control, microservices, and distributed system architecture through hands-on software projects.<br><br>📚 Actively studying Data Structures & Algorithms in Java while expanding my knowledge of backend engineering and system design.<br><br>💡 Passionate about clean architecture, secure software design, REST APIs, and solving real-world engineering problems.<br><br>🎯 Aspiring to build a career as a Java Full-Stack Developer, specializing in backend engineering and distributed systems to develop secure, reliable, and impactful software solutions.<br><br>🤝 Open to collaborating on Java, Spring Boot, React.js, and open-source projects.<br><br>⚡ Believing that continuous learning, thoughtful engineering, and practical problem-solving are the foundations of great software.<br><br>## 🤝 Let's Connect<br><br>📧 **Email**: ackarthicknarayanan@gmail.com<br><br>💼 **LinkedIn**: https://www.linkedin.com/in/karthicknarayanan-ac/</p>
 
 ###
 
